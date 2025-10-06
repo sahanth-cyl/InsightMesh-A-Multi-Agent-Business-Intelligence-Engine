@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+...existing code...
+pyjwt
+cryptography
+pandas
+matplotlib
+sqlalchemy
+langchain
+langchain_openai
+langchain_experimental
+streamlit
+requests
+plotly
+langchain-anthropic
+tabulate
